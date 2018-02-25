@@ -18,9 +18,9 @@ _>> Vocês podem ver que usei um execútavel infectado para melhor invasão remo
 
 ### Threading
 
-_Coloque um sistema de thread nele para conexão mais estável e mais rápida com a vitima
+_Coloquei um sistema de thread nele para conexão mais estável e mais rápida com a vitima_
 
-_Use com moderação.
+_Use com moderação._
 
 ```
 shin0bizinho o ninja inverso.

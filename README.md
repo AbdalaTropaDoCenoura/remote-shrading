@@ -1,6 +1,6 @@
 ### Remote Sharing Desktop
 
-_>> Script para invesão remote diretamentes em vitimas por IP_
+_>> Script para invesão remote diretamentes em vitimas por IP._
 
 _>> Esse script necessita-se de uma shell preservada com privilegio administrativo._
 
